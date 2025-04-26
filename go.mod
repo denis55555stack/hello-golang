@@ -1,3 +1,3 @@
 module github.com/denis55555stack/hello-golang
 
-go 1.23.4
+go 1.22
